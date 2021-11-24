@@ -10,7 +10,7 @@ const Menu = () => {
     const navLinks = [
         { label: 'Home', icon: 'home', path: '/'},
         { label: 'Message', icon: 'near_me', path: '/message'},
-        { label: 'Discover', icon: 'explore', path: '/discover'}
+        //{ label: 'Discover', icon: 'explore', path: '/discover'}
     ]
 
     const { auth, theme, notify } = useSelector(state => state)
@@ -69,7 +69,7 @@ const Menu = () => {
                         type: GLOBALTYPES.THEME, payload: !theme
                     })}>
 
-                        {theme ? 'Light mode' : 'Dark mode'}
+                        
                     </label>
 
                     <div className="dropdown-divider"></div>

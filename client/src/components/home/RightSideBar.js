@@ -40,11 +40,11 @@ const RightSideBar = () => {
             <div style={{opacity: 0.5}} className="my-2" >
                 
                 <small className="d-block">
-                    Welcome to our channel "We-Disconnect"
+                    Welcome to our channel "We-Connect"
                 </small>
 
                 <small>
-                   &copy; 2021 We-Disconnect FROM Arpita & Srihitha.
+                   &copy; 2021 We-Connect FROM Arpita & Srihitha.
                 </small>
             </div>
 
