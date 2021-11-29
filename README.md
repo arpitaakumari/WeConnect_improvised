@@ -12,4 +12,10 @@ N = Node.js for backend
 
 The project is deployed in our [localhost:3000]localhost:3000. 
 
-The backend part is deployed in [localhost:5000]localhost:5000 and the frontend in [localhost:3000]localhost:3000.
+The backend part is deployed in [localhost:5000]localhost:5000 and the frontend in [localhost:3000]localhost:3000
+
+## Steps to run on your local machine
+
+###
+
+Once, we start the server our landing page will be the Login Page.
